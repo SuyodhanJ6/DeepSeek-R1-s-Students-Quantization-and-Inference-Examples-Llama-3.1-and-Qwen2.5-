@@ -26,6 +26,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+notebooks/DeepSeek-R1-Distill-Qwen-7B-AutoRound-GPTQ-4bit
+notebooks/DeepSeek-R1-Distill-Qwen-7B-AutoRound-GPTQ-4bit/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
